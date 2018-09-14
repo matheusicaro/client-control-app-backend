@@ -1,0 +1,28 @@
+{
+  "name": "sever-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusicaro/node-server.git"
+  },
+  "author": "Matheus Icaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusicaro/node-server/issues"
+  },
+  "homepage": "https://github.com/matheusicaro/node-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.18.4"
+  }
+}
