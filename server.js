@@ -5,8 +5,8 @@ const expressValidator = require('express-validator');
 
 let app = express();
 
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false, limit: '3mb' }));
+app.use(bodyParser.json({ limit: '3mb' }));
 app.use(expressValidator());
 
 // incluindo pasta 'routes' no app.
