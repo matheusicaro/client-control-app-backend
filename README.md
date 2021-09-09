@@ -1,4 +1,5 @@
 # PROJECT-CLIENT-CONTROL-BACKEND
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/matheusicaro/client-control-app-backend/blob/master/LICENSE)
 
 Back-end node server for user management in front-end application **([repository-frontend](https://github.com/matheusicaro/prj-client-control-frontend))**.
 
