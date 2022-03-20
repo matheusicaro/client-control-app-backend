@@ -21,6 +21,12 @@
         "intro": "API back-end de um aplicativo para realizar o controlar de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs"
       }
     },
+      "tags": [
+          "Node.js",
+        "JavaScript",
+        "Express",
+          "Back-end"
+      ],
     "stack": {
       "backend": [
         {
